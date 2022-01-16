@@ -16,3 +16,21 @@ I absolutely love music, especially progressive metal, which can be defined as
 
 [This is the link to one of my favorite songs ever](https://youtu.be/wTDcAkSjuzc)
 
+### Additional facts about me that I added from VS
+- I love dogs.
+I think they're the most *loyal* animals
+- I enjoy drinking *green tea*.
+
+
+
+
+
+
+
+
+### Takeaways from the article ***Learn the fundamentals of a good developer mindset in 15 minutes***
+- Developers should be more concerened with the idea of **how to help people through their design**
+- *Simple is always better*, because sometimes complexity can lead to damaging problems with what we're working on.
+- *Baby steps* til you reach your high goals*, basically don't worry about starting small becuase that's sometimes what makes you improve in a better way.
+- *Don't think you'll always have enough time*, so budget your time well to be able to work through every issue along the way
+
